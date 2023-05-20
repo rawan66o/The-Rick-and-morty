@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "div": "^2.0.2",
+    "formik": "^2.2.9",
+    "lo": "^0.41.0",
+    "react-icons": "^4.4.0",
+    "select": "^1.1.2",
+    "underscore": "^1.13.4"
+  }
+}

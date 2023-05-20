@@ -1,0 +1,49 @@
+.logo{
+    color:rgb(255, 152, 0);
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.list {
+    margin: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+    padding-top: 0;
+    align-items: center;
+    text-align: center;
+font-size: 15px;
+    display: flex;
+}
+
+.small-list {
+    border: 1px solid rgb(255, 152, 0);
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    margin: 0;
+    border-radius: 0.5rem;
+}
+
+.small-list:hover {
+    color: white;
+    background-color: rgb(255, 152, 0);
+}
+
+.docs:hover {
+    color: rgb(255, 152, 0);
+
+}
+
+.about:hover {
+    color: rgb(255, 152, 0);
+}
